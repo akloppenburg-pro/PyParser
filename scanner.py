@@ -21,7 +21,7 @@ table_row = 0
 
 def MAIN():
     # read in input file
-    in_file = open('input.txt', 'r')
+    in_file = open('scanner_input.txt', 'r')
 
     # store in a variable so we can pass it to main
     input = in_file.read()
